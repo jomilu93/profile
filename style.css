@@ -1,0 +1,74 @@
+body {
+  font-family: 'Baloo Chettan 2', cursive;
+  color: #331832;
+  text-align: center;
+  background-color: #9FC2CC;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Sen', sans-serif;
+  line-height: 50px;
+  font-size: 40px
+}
+
+.image-round {
+  border-radius: 50%
+}
+
+a {
+ color: navy blue;
+ text-decoration: underline;
+}
+
+a:hover {
+  color:magenta;
+}
+
+.container{
+  align-items: center;
+  display: inline-block;
+  /*width: 1000px;
+  height: 1000px;*/
+  background-color: #9FC2CC;
+}
+
+.card{
+  align-content: center;
+  width: 1000px;
+  /*height: 1000px;*/
+  background-color: white;
+  padding-right: 2px;
+  padding-left: 2px;
+  border-radius: 15px 15px 15px 15px
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+/*.fa-facebook-red {
+  color: red;
+}*/
+
+/*.fa-linkedin {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #3B5998;
+  color: white;
+}*/
+
